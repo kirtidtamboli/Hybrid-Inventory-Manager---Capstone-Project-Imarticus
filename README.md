@@ -96,5 +96,5 @@ This project demonstrates how C and C++ can be combined to build a hybrid system
 
 ## 👤 Author
 
-Name: [Your Name]
-Roll No: [Your Roll Number]
+Name: Kirti Tamboli
+Roll No: 1214
